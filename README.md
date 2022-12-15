@@ -1,2 +1,2 @@
 # KPU-Python-TP1
-(201217)
+[README](T.pdf)
