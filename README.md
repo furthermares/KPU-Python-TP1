@@ -1,2 +1,4 @@
-# KPU-Python-TP1
-[README](T.pdf)
+### [Python] (201217)
+- U.S. Political Party Preferences analysis
+
+[Report](T.pdf)
